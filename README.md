@@ -1,2 +1,1 @@
-
-[![Hey, I'm Josh!](https://pimp-my-readme-next.vercel.app/api/sliding-text?emojis=1f44b&text=Hey%2C%20I%27m%20Josh%21)](https://pimp-my-readme-next.vercel.app)
+[![Joshua D'Souza, Founder @ CloudSafaris, Founding Engineer @ webapp.io (YC S20)](https://pimp-my-readme-next.vercel.app/api/wavy-banner?subtitle=Founder%20%40%20CloudSafaris%2C%20Founding%20Engineer%20%40%20webapp.io%20%28YC%20S20%29&title=Joshua%20D%27Souza)](https://pimp-my-readme-next.vercel.app)
